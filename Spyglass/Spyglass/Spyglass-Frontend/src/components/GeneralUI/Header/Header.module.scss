@@ -1,0 +1,14 @@
+.page-header{
+    :global(.ant-layout-header)  { 
+            background-color: white  !important;
+            display: flex;
+            align-items: center;
+            height: 80px;
+            padding: 0px 30px;
+            justify-content: space-between;
+    }
+    .input-con{
+        max-width: 300px;
+        min-width: 300px;
+    }
+}

@@ -1,0 +1,11 @@
+.loading-spiner {
+  padding: 4px;
+  svg {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+}

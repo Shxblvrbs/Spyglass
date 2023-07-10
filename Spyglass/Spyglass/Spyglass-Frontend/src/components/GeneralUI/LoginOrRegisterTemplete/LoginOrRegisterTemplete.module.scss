@@ -1,0 +1,18 @@
+.form-templete-con{
+    // padding:150px 200px;
+    padding: 100px 200px;
+    background-color: #18132A;
+    color: white;
+    :global(.ant-form .ant-form-item){
+        margin-bottom: 16px !important;
+    }
+    .title{
+        color:#02B8F2 !important;
+    }
+    .text{
+        color:rgba(255, 255, 255, 0.734) !important;
+        font-weight: 500;
+        font-size: 22px;
+    }
+
+}
